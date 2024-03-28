@@ -1,0 +1,7 @@
+{
+  "name": "projluan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
